@@ -4,8 +4,8 @@ import {
   Switch,
   Route,
 } from 'react-router-dom';
-import StoreProvider from 'components/Store/Provider';
-import RoutesPrivate from 'components/Routes/private/Private';
+import StoreProvider from "../components/Store/Provider";
+import RoutesPrivate from "../components/Routes/private/Private";
 import Todo from './Todo/Todo';
 import Login from './Login/Login';
 

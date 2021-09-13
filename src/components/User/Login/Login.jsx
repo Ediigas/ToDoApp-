@@ -1,7 +1,7 @@
 import React, { useState, useContext } from "react";
 import { useHistory } from "react-router";
-import StoreContext from "components/Store/Context";
-import UIButton from "components/UI/Button/Button";
+import StoreContext from "../../Store/Context";
+import UIButton from "../../UI/Button/Button";
 
 import "./Login.css";
 
